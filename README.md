@@ -27,7 +27,7 @@ gold_standard/
   The clinical cases used as gold standard to evaluate the model's performance.
   
 model/
-  The sentence splitting model, "es-tokenization-model-spaccc.bin", a binary file.
+  The tokenizationint model, "es-tokenization-model-spaccc.bin", a binary file.
   
 src/
   The source code to create the model (CreateModelTok.java) and evaluate it (EvaluateModelTok.java). 
