@@ -85,6 +85,7 @@ After tuning the model using different values for each parameter mentioned above
 | Number of tokens generated            | 38227   |
 | Number of words correctly tokenized   | 38182   |
 | Number of words wrongly tokenized     | 35     |
+| Number of tokens missed     |   30   |
 | **Precision**                                | **99.88%** |
 | **Recall**                                   | **99.83%** |
 | **F-Measure**                                | **99.85%**|
