@@ -1,7 +1,5 @@
 # The Tokenizer for Clinical Cases Written in Spanish
 
-## Digital Object Identifier (DOI) and access to dataset files
-
 
 ## Introduction
 This repository contains the tokenization model trained using the SPACCC_TOKEN corpus (https://github.com/PlanTL-SANIDAD/SPACCC_TOKEN). The model was trained using the 90% of the corpus (900 clinical cases) and tested against the 10% (100 clinical cases). This model is a great resource to tokenize biomedical documents, specially clinical cases written in Spanish.
